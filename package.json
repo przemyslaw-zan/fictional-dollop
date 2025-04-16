@@ -1,6 +1,6 @@
 {
   "name": "fictional-dollop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@ckeditor/ckeditor5-dev-release-tools": "^43.0.1",
+    "@ckeditor/ckeditor5-dev-release-tools": "next",
     "listr2": "^8.3.2",
     "minimist": "^1.2.8"
   }
